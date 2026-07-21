@@ -1,5 +1,9 @@
-.git
+target/
+.git/
 .gitignore
-*.md
-.DS_Store
-Thumbs.db
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+*.log
