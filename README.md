@@ -53,4 +53,4 @@ Building Manually
 mvn clean package
 Deploy the resulting WAR from target/ into Tomcat's webapps/ folder (rename to ROOT.war to serve from the root context).
 License
-This project was built for academic purposes.
+This project is a property of the Department of Computer Science, Adeseun Ogundoyin Polytechnic, Eruwa, Oyo State, Nigeria
